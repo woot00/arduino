@@ -1,3 +1,4 @@
+
 NVDIA 계정을 만든다.
 Jetson Nano Developer Kit SD Card Image를 NVIDIA에서 제공한다. (이때 SD카드 Formatter를 하고 
 https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit 이미지를 굽는다.)
